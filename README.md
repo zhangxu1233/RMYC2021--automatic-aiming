@@ -1,6 +1,6 @@
 # RMYC--zi_miao
 基于jetson nano 与ubuntu18.04,有帮助的话麻烦star支持一下，有问题加个人v：18051119136，q：2601789458，备注github。B站：Mr张旭zx
-4.函数和子程序
+解释：
 4.1dispose()函数
 参数：image_dispose（要处理的画面）
 作用：翻转图片，二值化图片，对图片进行降噪，切割画面

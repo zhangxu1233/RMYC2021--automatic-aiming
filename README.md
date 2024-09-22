@@ -1,4 +1,4 @@
-# RMYC--zi_miao
+# RMYC--automatic aiming
 基于jetson nano 与ubuntu18.04,有帮助的话麻烦star支持一下，有问题加个人v：18051119136，q：2601789458，备注github。B站：Mr张旭zx
 解释：
 4.1dispose()函数
